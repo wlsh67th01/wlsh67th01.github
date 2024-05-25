@@ -2,7 +2,7 @@
 import Navbar from "./share/Navbar.vue"
 </script>
 
-<!--template>
+<template>
 
   <div class="Top">
 
@@ -15,10 +15,10 @@ import Navbar from "./share/Navbar.vue"
     
 
   </div>
-</template-->
+</template>
 
 
-<template>
+<!--template>
   <div class="app">
     <div class="navbar">
       <navbar></navbar>
@@ -29,7 +29,7 @@ import Navbar from "./share/Navbar.vue"
         </router-view>
     </div>
   </div>
-</template>
+</template-->
 
 
 
